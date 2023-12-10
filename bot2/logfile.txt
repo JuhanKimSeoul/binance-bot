@@ -1,0 +1,450 @@
+2023-12-06 14:15:37,251 - root - INFO - Socket processing for SOLUSDT took 3.6716461181640625e-05 seconds
+2023-12-06 14:15:37,288 - root - INFO - Socket processing for STMXUSDT took 3.337860107421875e-05 seconds
+2023-12-06 14:15:37,311 - root - INFO - Socket processing for RUNEUSDT took 3.2901763916015625e-05 seconds
+2023-12-06 14:15:37,334 - root - INFO - Socket processing for BLZUSDT took 3.361701965332031e-05 seconds
+2023-12-06 14:15:37,350 - root - INFO - Socket processing for CHRUSDT took 3.4332275390625e-05 seconds
+2023-12-06 14:15:37,374 - root - INFO - Socket processing for KSMUSDT took 3.361701965332031e-05 seconds
+2023-12-06 14:15:37,624 - root - INFO - Socket processing for YFIUSDT took 3.409385681152344e-05 seconds
+2023-12-06 14:15:37,637 - root - INFO - Socket processing for COTIUSDT took 4.839897155761719e-05 seconds
+2023-12-06 14:15:38,382 - root - INFO - Socket processing for STORJUSDT took 3.4332275390625e-05 seconds
+2023-12-06 14:15:38,427 - root - INFO - Socket processing for KNCUSDT took 3.218650817871094e-05 seconds
+2023-12-06 14:15:38,580 - root - INFO - Socket processing for SUSHIUSDT took 3.218650817871094e-05 seconds
+2023-12-06 14:15:38,721 - root - INFO - Socket processing for DOTUSDT took 5.1021575927734375e-05 seconds
+2023-12-06 14:15:39,101 - root - INFO - Socket processing for TRBUSDT took 4.3392181396484375e-05 seconds
+2023-12-06 14:15:39,173 - root - INFO - Socket processing for STPTUSDT took 3.647804260253906e-05 seconds
+2023-12-06 14:15:39,174 - root - INFO - Socket processing for NMRUSDT took 2.4080276489257812e-05 seconds
+2023-12-06 14:15:39,178 - root - INFO - Socket processing for MBLUSDT took 3.170967102050781e-05 seconds
+2023-12-06 14:15:39,181 - root - INFO - Socket processing for MKRUSDT took 4.506111145019531e-05 seconds
+2023-12-06 14:15:39,181 - root - INFO - Socket processing for RSRUSDT took 3.361701965332031e-05 seconds
+2023-12-06 14:15:39,182 - root - INFO - Socket processing for CRVUSDT took 2.6702880859375e-05 seconds
+2023-12-06 14:15:39,182 - root - INFO - Socket processing for MANAUSDT took 2.3126602172851562e-05 seconds
+2023-12-06 14:15:39,184 - root - INFO - Socket processing for OCEANUSDT took 3.719329833984375e-05 seconds
+2023-12-06 14:15:39,187 - root - INFO - Socket processing for BNTUSDT took 2.6702880859375e-05 seconds
+2023-12-06 14:15:39,188 - root - INFO - Socket processing for DGBUSDT took 7.724761962890625e-05 seconds
+2023-12-06 14:15:39,189 - root - INFO - Socket processing for SANDUSDT took 2.86102294921875e-05 seconds
+2023-12-06 14:15:39,189 - root - INFO - Socket processing for COMPUSDT took 2.8133392333984375e-05 seconds
+2023-12-06 14:15:39,190 - root - INFO - Socket processing for ZENUSDT took 2.2172927856445312e-05 seconds
+2023-12-06 14:15:39,190 - root - INFO - Socket processing for SXPUSDT took 2.0503997802734375e-05 seconds
+2023-12-06 14:15:39,190 - root - INFO - Socket processing for CTSIUSDT took 2.2411346435546875e-05 seconds
+2023-12-06 14:15:39,190 - root - INFO - Socket processing for EGLDUSDT took 2.2649765014648438e-05 seconds
+2023-12-06 14:15:39,191 - root - INFO - Socket processing for LRCUSDT took 1.9788742065429688e-05 seconds
+2023-12-06 14:15:39,191 - root - INFO - Socket processing for SNXUSDT took 1.8835067749023438e-05 seconds
+2023-12-06 14:15:39,191 - root - INFO - Socket processing for BALUSDT took 1.9550323486328125e-05 seconds
+2023-12-06 14:15:39,191 - root - INFO - Socket processing for ANTUSDT took 1.1682510375976562e-05 seconds
+2023-12-06 14:15:39,191 - root - INFO - Socket processing for UMAUSDT took 1.52587890625e-05 seconds
+2023-12-06 14:15:39,192 - root - INFO - Socket processing for MDTUSDT took 1.7642974853515625e-05 seconds
+2023-12-06 14:20:08,217 - root - INFO - read csv file took for 0.03461503982543945
+2023-12-06 14:20:08,267 - root - INFO - plotting and sending graph to telegram took for 0.01693582534790039
+2023-12-06 14:20:08,268 - root - INFO - analyzing and sending telegram hyped coin took for 0.08682513236999512
+2023-12-06 14:20:37,185 - root - INFO - Socket processing for UMAUSDT took 0.0003254413604736328 seconds
+2023-12-06 14:20:37,301 - root - INFO - Socket processing for LRCUSDT took 3.0517578125e-05 seconds
+2023-12-06 14:20:37,310 - root - INFO - Socket processing for RUNEUSDT took 3.886222839355469e-05 seconds
+2023-12-06 14:20:37,353 - root - INFO - Socket processing for DOTUSDT took 3.62396240234375e-05 seconds
+2023-12-06 14:20:37,462 - root - INFO - Socket processing for MANAUSDT took 6.914138793945312e-05 seconds
+2023-12-06 14:20:37,566 - root - INFO - Socket processing for CHRUSDT took 4.291534423828125e-05 seconds
+2023-12-06 14:20:37,617 - root - INFO - Socket processing for SANDUSDT took 7.581710815429688e-05 seconds
+2023-12-06 14:20:37,730 - root - INFO - Socket processing for KNCUSDT took 3.695487976074219e-05 seconds
+2023-12-06 14:20:37,815 - root - INFO - Socket processing for SOLUSDT took 3.457069396972656e-05 seconds
+2023-12-06 14:20:37,955 - root - INFO - Socket processing for ANTUSDT took 5.2928924560546875e-05 seconds
+2023-12-06 14:20:37,971 - root - INFO - Socket processing for RSRUSDT took 5.269050598144531e-05 seconds
+2023-12-06 14:20:37,986 - root - INFO - Socket processing for EGLDUSDT took 3.2901763916015625e-05 seconds
+2023-12-06 14:20:38,011 - root - INFO - Socket processing for YFIUSDT took 4.601478576660156e-05 seconds
+2023-12-06 14:20:38,062 - root - INFO - Socket processing for TRBUSDT took 3.314018249511719e-05 seconds
+2023-12-06 14:20:38,152 - root - INFO - Socket processing for MDTUSDT took 3.123283386230469e-05 seconds
+2023-12-06 14:20:38,297 - root - INFO - Socket processing for SXPUSDT took 3.4332275390625e-05 seconds
+2023-12-06 14:20:38,316 - root - INFO - Socket processing for STORJUSDT took 3.123283386230469e-05 seconds
+2023-12-06 14:20:38,938 - root - INFO - Socket processing for DGBUSDT took 5.269050598144531e-05 seconds
+2023-12-06 14:20:39,014 - root - INFO - Socket processing for ZENUSDT took 5.14984130859375e-05 seconds
+2023-12-06 14:20:39,023 - root - INFO - Socket processing for MKRUSDT took 3.552436828613281e-05 seconds
+2023-12-06 14:20:39,041 - root - INFO - Socket processing for SNXUSDT took 5.125999450683594e-05 seconds
+2023-12-06 14:20:39,047 - root - INFO - Socket processing for CRVUSDT took 4.506111145019531e-05 seconds
+2023-12-06 14:20:39,055 - root - INFO - Socket processing for SUSHIUSDT took 6.628036499023438e-05 seconds
+2023-12-06 14:20:39,089 - root - INFO - Socket processing for COMPUSDT took 3.838539123535156e-05 seconds
+2023-12-06 14:20:39,096 - root - INFO - Socket processing for STMXUSDT took 3.504753112792969e-05 seconds
+2023-12-06 14:20:39,103 - root - INFO - Socket processing for OCEANUSDT took 3.886222839355469e-05 seconds
+2023-12-06 14:20:39,171 - root - INFO - Socket processing for NMRUSDT took 5.364418029785156e-05 seconds
+2023-12-06 14:20:39,171 - root - INFO - Socket processing for STPTUSDT took 3.790855407714844e-05 seconds
+2023-12-06 14:20:39,177 - root - INFO - Socket processing for MBLUSDT took 4.38690185546875e-05 seconds
+2023-12-06 14:20:39,179 - root - INFO - Socket processing for KSMUSDT took 4.2438507080078125e-05 seconds
+2023-12-06 14:20:39,180 - root - INFO - Socket processing for BLZUSDT took 3.552436828613281e-05 seconds
+2023-12-06 14:20:39,182 - root - INFO - Socket processing for BNTUSDT took 4.0531158447265625e-05 seconds
+2023-12-06 14:20:39,183 - root - INFO - Socket processing for CTSIUSDT took 4.38690185546875e-05 seconds
+2023-12-06 14:20:39,187 - root - INFO - Socket processing for BALUSDT took 3.170967102050781e-05 seconds
+2023-12-06 14:20:39,189 - root - INFO - Socket processing for COTIUSDT took 3.933906555175781e-05 seconds
+2023-12-06 14:25:08,276 - root - INFO - read csv file took for 0.006399869918823242
+2023-12-06 14:25:08,298 - root - INFO - plotting and sending graph to telegram took for 0.008377790451049805
+2023-12-06 14:25:08,299 - root - INFO - analyzing and sending telegram hyped coin took for 0.028885602951049805
+2023-12-06 14:25:37,332 - root - INFO - Socket processing for RUNEUSDT took 4.3392181396484375e-05 seconds
+2023-12-06 14:25:37,366 - root - INFO - Socket processing for SANDUSDT took 4.076957702636719e-05 seconds
+2023-12-06 14:25:37,436 - root - INFO - Socket processing for CHRUSDT took 3.218650817871094e-05 seconds
+2023-12-06 14:25:37,638 - root - INFO - Socket processing for SOLUSDT took 3.170967102050781e-05 seconds
+2023-12-06 14:25:37,694 - root - INFO - Socket processing for TRBUSDT took 3.552436828613281e-05 seconds
+2023-12-06 14:25:37,997 - root - INFO - Socket processing for DOTUSDT took 4.6253204345703125e-05 seconds
+2023-12-06 14:25:38,118 - root - INFO - Socket processing for OCEANUSDT took 5.626678466796875e-05 seconds
+2023-12-06 14:25:38,216 - root - INFO - Socket processing for SNXUSDT took 3.147125244140625e-05 seconds
+2023-12-06 14:25:38,331 - root - INFO - Socket processing for SXPUSDT took 3.075599670410156e-05 seconds
+2023-12-06 14:25:38,348 - root - INFO - Socket processing for LRCUSDT took 5.364418029785156e-05 seconds
+2023-12-06 14:25:38,369 - root - INFO - Socket processing for CTSIUSDT took 3.361701965332031e-05 seconds
+2023-12-06 14:25:38,372 - root - INFO - Socket processing for MANAUSDT took 4.482269287109375e-05 seconds
+2023-12-06 14:25:38,386 - root - INFO - Socket processing for BNTUSDT took 3.6716461181640625e-05 seconds
+2023-12-06 14:25:38,434 - root - INFO - Socket processing for SUSHIUSDT took 4.38690185546875e-05 seconds
+2023-12-06 14:25:38,522 - root - INFO - Socket processing for YFIUSDT took 3.2901763916015625e-05 seconds
+2023-12-06 14:25:38,796 - root - INFO - Socket processing for MBLUSDT took 5.817413330078125e-05 seconds
+2023-12-06 14:25:39,171 - root - INFO - Socket processing for NMRUSDT took 3.266334533691406e-05 seconds
+2023-12-06 14:25:39,174 - root - INFO - Socket processing for STPTUSDT took 4.124641418457031e-05 seconds
+2023-12-06 14:25:39,179 - root - INFO - Socket processing for KSMUSDT took 4.5299530029296875e-05 seconds
+2023-12-06 14:25:39,182 - root - INFO - Socket processing for KNCUSDT took 5.030632019042969e-05 seconds
+2023-12-06 14:25:39,183 - root - INFO - Socket processing for BLZUSDT took 5.602836608886719e-05 seconds
+2023-12-06 14:25:39,183 - root - INFO - Socket processing for MKRUSDT took 3.3855438232421875e-05 seconds
+2023-12-06 14:25:39,183 - root - INFO - Socket processing for CRVUSDT took 2.7894973754882812e-05 seconds
+2023-12-06 14:25:39,186 - root - INFO - Socket processing for RSRUSDT took 3.886222839355469e-05 seconds
+2023-12-06 14:25:39,187 - root - INFO - Socket processing for DGBUSDT took 5.1021575927734375e-05 seconds
+2023-12-06 14:25:39,189 - root - INFO - Socket processing for COMPUSDT took 5.7220458984375e-05 seconds
+2023-12-06 14:25:39,191 - root - INFO - Socket processing for EGLDUSDT took 3.266334533691406e-05 seconds
+2023-12-06 14:25:39,192 - root - INFO - Socket processing for BALUSDT took 2.0503997802734375e-05 seconds
+2023-12-06 14:25:39,193 - root - INFO - Socket processing for STMXUSDT took 3.62396240234375e-05 seconds
+2023-12-06 14:25:39,193 - root - INFO - Socket processing for ANTUSDT took 2.09808349609375e-05 seconds
+2023-12-06 14:25:39,193 - root - INFO - Socket processing for COTIUSDT took 1.6927719116210938e-05 seconds
+2023-12-06 14:25:39,194 - root - INFO - Socket processing for ZENUSDT took 1.9073486328125e-05 seconds
+2023-12-06 14:25:39,194 - root - INFO - Socket processing for UMAUSDT took 1.6927719116210938e-05 seconds
+2023-12-06 14:25:39,194 - root - INFO - Socket processing for MDTUSDT took 1.5020370483398438e-05 seconds
+2023-12-06 14:25:39,194 - root - INFO - Socket processing for STORJUSDT took 1.7642974853515625e-05 seconds
+2023-12-06 14:30:08,302 - root - INFO - read csv file took for 0.0019116401672363281
+2023-12-06 14:30:08,319 - root - INFO - plotting and sending graph to telegram took for 0.00854349136352539
+2023-12-06 14:30:08,320 - root - INFO - analyzing and sending telegram hyped coin took for 0.019775867462158203
+2023-12-06 14:30:37,269 - root - INFO - Socket processing for COMPUSDT took 7.605552673339844e-05 seconds
+2023-12-06 14:30:37,288 - root - INFO - Socket processing for SUSHIUSDT took 4.410743713378906e-05 seconds
+2023-12-06 14:30:37,314 - root - INFO - Socket processing for RUNEUSDT took 3.7670135498046875e-05 seconds
+2023-12-06 14:30:37,540 - root - INFO - Socket processing for STORJUSDT took 3.552436828613281e-05 seconds
+2023-12-06 14:30:37,556 - root - INFO - Socket processing for SOLUSDT took 6.771087646484375e-05 seconds
+2023-12-06 14:30:37,645 - root - INFO - Socket processing for MANAUSDT took 3.3855438232421875e-05 seconds
+2023-12-06 14:30:37,648 - root - INFO - Socket processing for TRBUSDT took 3.147125244140625e-05 seconds
+2023-12-06 14:30:37,674 - root - INFO - Socket processing for SANDUSDT took 4.744529724121094e-05 seconds
+2023-12-06 14:30:37,679 - root - INFO - Socket processing for YFIUSDT took 2.956390380859375e-05 seconds
+2023-12-06 14:30:37,688 - root - INFO - Socket processing for DOTUSDT took 3.457069396972656e-05 seconds
+2023-12-06 14:30:37,698 - root - INFO - Socket processing for EGLDUSDT took 3.24249267578125e-05 seconds
+2023-12-06 14:30:37,746 - root - INFO - Socket processing for UMAUSDT took 2.956390380859375e-05 seconds
+2023-12-06 14:30:37,778 - root - INFO - Socket processing for BNTUSDT took 3.504753112792969e-05 seconds
+2023-12-06 14:30:37,791 - root - INFO - Socket processing for LRCUSDT took 0.00012731552124023438 seconds
+2023-12-06 14:30:37,851 - root - INFO - Socket processing for MDTUSDT took 7.796287536621094e-05 seconds
+2023-12-06 14:30:38,406 - root - INFO - Socket processing for MBLUSDT took 3.4332275390625e-05 seconds
+2023-12-06 14:30:38,630 - root - INFO - Socket processing for SXPUSDT took 5.078315734863281e-05 seconds
+2023-12-06 14:30:38,798 - root - INFO - Socket processing for ZENUSDT took 4.1961669921875e-05 seconds
+2023-12-06 14:30:39,173 - root - INFO - Socket processing for STPTUSDT took 5.030632019042969e-05 seconds
+2023-12-06 14:30:39,181 - root - INFO - Socket processing for KSMUSDT took 3.528594970703125e-05 seconds
+2023-12-06 14:30:39,181 - root - INFO - Socket processing for KNCUSDT took 2.86102294921875e-05 seconds
+2023-12-06 14:30:39,181 - root - INFO - Socket processing for NMRUSDT took 4.267692565917969e-05 seconds
+2023-12-06 14:30:39,182 - root - INFO - Socket processing for BLZUSDT took 9.250640869140625e-05 seconds
+2023-12-06 14:30:39,182 - root - INFO - Socket processing for MKRUSDT took 2.288818359375e-05 seconds
+2023-12-06 14:30:39,182 - root - INFO - Socket processing for OCEANUSDT took 2.288818359375e-05 seconds
+2023-12-06 14:30:39,182 - root - INFO - Socket processing for RSRUSDT took 3.147125244140625e-05 seconds
+2023-12-06 14:30:39,183 - root - INFO - Socket processing for DGBUSDT took 3.1948089599609375e-05 seconds
+2023-12-06 14:30:39,183 - root - INFO - Socket processing for CRVUSDT took 8.082389831542969e-05 seconds
+2023-12-06 14:30:39,187 - root - INFO - Socket processing for CTSIUSDT took 3.814697265625e-05 seconds
+2023-12-06 14:30:39,187 - root - INFO - Socket processing for ANTUSDT took 3.4809112548828125e-05 seconds
+2023-12-06 14:30:39,188 - root - INFO - Socket processing for COTIUSDT took 1.7404556274414062e-05 seconds
+2023-12-06 14:30:39,188 - root - INFO - Socket processing for CHRUSDT took 1.6450881958007812e-05 seconds
+2023-12-06 14:30:39,188 - root - INFO - Socket processing for STMXUSDT took 1.4543533325195312e-05 seconds
+2023-12-06 14:30:39,188 - root - INFO - Socket processing for SNXUSDT took 1.52587890625e-05 seconds
+2023-12-06 14:30:39,188 - root - INFO - Socket processing for BALUSDT took 2.0742416381835938e-05 seconds
+2023-12-06 14:33:25,907 - root - INFO - analyzing and sending telegram hyped coin took for 197.57946753501892
+2023-12-06 14:33:27,315 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,327 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139be400>
+2023-12-06 14:33:27,328 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,328 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a04e80>
+2023-12-06 14:33:27,347 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,348 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1392fd00>
+2023-12-06 14:33:27,351 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,351 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13961520>
+2023-12-06 14:33:27,351 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,352 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138ce700>
+2023-12-06 14:33:27,352 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,352 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a0c6d0>
+2023-12-06 14:33:27,353 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,353 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139ade20>
+2023-12-06 14:33:27,354 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,354 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139f2340>
+2023-12-06 14:33:27,354 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,355 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1395a6a0>
+2023-12-06 14:33:27,355 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,355 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a26eb0>
+2023-12-06 14:33:27,358 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,359 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13994460>
+2023-12-06 14:33:27,359 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,360 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13973940>
+2023-12-06 14:33:27,360 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,360 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a3f520>
+2023-12-06 14:33:27,360 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,360 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13950100>
+2023-12-06 14:33:27,360 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,361 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139382b0>
+2023-12-06 14:33:27,361 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,361 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13926760>
+2023-12-06 14:33:27,361 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,361 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a1ac10>
+2023-12-06 14:33:27,361 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,361 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13926e80>
+2023-12-06 14:33:27,362 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,362 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139e74c0>
+2023-12-06 14:33:27,362 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,363 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138e89a0>
+2023-12-06 14:33:27,363 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,363 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13983d60>
+2023-12-06 14:33:27,363 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,363 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1392f5e0>
+2023-12-06 14:33:27,364 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,364 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a7ad90>
+2023-12-06 14:33:27,365 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,366 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a1a2e0>
+2023-12-06 14:33:27,366 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,366 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138e8280>
+2023-12-06 14:33:27,367 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,367 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139a6fa0>
+2023-12-06 14:33:27,367 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,368 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13961c40>
+2023-12-06 14:33:27,368 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,368 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a3fc40>
+2023-12-06 14:33:27,368 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,368 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139c89a0>
+2023-12-06 14:33:27,369 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,370 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13945880>
+2023-12-06 14:33:27,370 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,370 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139b6580>
+2023-12-06 14:33:27,370 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,370 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138cee20>
+2023-12-06 14:33:27,370 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,371 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a371c0>
+2023-12-06 14:33:27,371 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,371 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13945160>
+2023-12-06 14:33:27,371 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,371 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a26580>
+2023-12-06 14:33:27,372 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,372 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139d6ee0>
+2023-12-06 14:33:27,372 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,372 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13926040>
+2023-12-06 14:33:27,373 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,373 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139e7be0>
+2023-12-06 14:33:27,373 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,374 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13950f40>
+2023-12-06 14:33:27,374 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,374 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138f9dc0>
+2023-12-06 14:33:27,375 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,375 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139d0220>
+2023-12-06 14:33:27,376 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,376 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1399b2e0>
+2023-12-06 14:33:27,379 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,381 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13902c40>
+2023-12-06 14:33:27,382 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,382 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138df400>
+2023-12-06 14:33:27,382 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,382 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139d67c0>
+2023-12-06 14:33:27,383 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,383 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139a6880>
+2023-12-06 14:33:27,383 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,384 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1390aac0>
+2023-12-06 14:33:27,384 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,384 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138f96a0>
+2023-12-06 14:33:27,384 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,384 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13950820>
+2023-12-06 14:33:27,384 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,384 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13994b80>
+2023-12-06 14:33:27,384 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,384 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a04760>
+2023-12-06 14:33:27,385 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,385 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1397c7c0>
+2023-12-06 14:33:27,385 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,385 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139ad700>
+2023-12-06 14:33:27,385 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,385 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1390ebe0>
+2023-12-06 14:33:27,385 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,385 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139e1640>
+2023-12-06 14:33:27,385 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,385 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1390a3a0>
+2023-12-06 14:33:27,386 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,386 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1391e8e0>
+2023-12-06 14:33:27,387 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,387 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a2d820>
+2023-12-06 14:33:27,387 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,387 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1399ba00>
+2023-12-06 14:33:27,387 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,387 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13938a00>
+2023-12-06 14:33:27,387 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,388 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1391e1c0>
+2023-12-06 14:33:27,389 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,389 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1398d5e0>
+2023-12-06 14:33:27,428 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,428 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13983640>
+2023-12-06 14:33:27,428 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,429 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138d7580>
+2023-12-06 14:33:27,429 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,429 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138dfb20>
+2023-12-06 14:33:27,429 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,429 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1397cee0>
+2023-12-06 14:33:27,430 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,430 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139c8280>
+2023-12-06 14:33:27,430 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,430 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a04040>
+2023-12-06 14:33:27,430 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,430 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1398dd00>
+2023-12-06 14:33:27,431 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,431 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139d0940>
+2023-12-06 14:33:27,432 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,432 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13902520>
+2023-12-06 14:33:27,432 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,432 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13918a60>
+2023-12-06 14:33:27,432 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,432 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1390e4c0>
+2023-12-06 14:33:27,433 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,433 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138f0820>
+2023-12-06 14:33:27,433 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,433 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139d60a0>
+2023-12-06 14:33:27,433 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,433 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139a6160>
+2023-12-06 14:33:27,434 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,434 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13892940>
+2023-12-06 14:33:27,435 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,435 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139b6ca0>
+2023-12-06 14:33:27,435 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,435 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13973220>
+2023-12-06 14:33:27,436 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,436 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b128d9cd0>
+2023-12-06 14:33:27,436 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,437 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a12040>
+2023-12-06 14:33:27,437 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,438 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1396dac0>
+2023-12-06 14:33:27,441 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,442 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a37b50>
+2023-12-06 14:33:27,442 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,443 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139f2a60>
+2023-12-06 14:33:27,443 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,444 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139beb20>
+2023-12-06 14:33:27,455 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,455 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1397c0a0>
+2023-12-06 14:33:27,455 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,456 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a49ac0>
+2023-12-06 14:33:27,456 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,456 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139f98e0>
+2023-12-06 14:33:27,457 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,457 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13918340>
+2023-12-06 14:33:27,457 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,457 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138f0f40>
+2023-12-06 14:33:27,458 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,458 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139e1d60>
+2023-12-06 14:33:27,459 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,459 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a12970>
+2023-12-06 14:33:27,460 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,460 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138f0100>
+2023-12-06 14:33:27,460 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,460 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1396d3a0>
+2023-12-06 14:33:27,461 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,461 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13a493a0>
+2023-12-06 14:33:27,461 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,461 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b139f91c0>
+2023-12-06 14:33:27,462 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,462 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b1395adc0>
+2023-12-06 14:33:27,462 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,462 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13892220>
+2023-12-06 14:33:27,463 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,463 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b13945fa0>
+2023-12-06 14:33:27,463 - binance.streams - ERROR - CANCEL read_loop
+2023-12-06 14:33:27,463 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f1b138d7ca0>

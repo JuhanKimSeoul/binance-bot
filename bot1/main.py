@@ -11,6 +11,7 @@ from os import path, getenv
 from dotenv import load_dotenv
 from aiogram import Bot, types
 from aiogram import Dispatcher
+import seaborn as sns
 import io
 import logging
 import time

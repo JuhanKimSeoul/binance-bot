@@ -1,0 +1,1841 @@
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for UNFIUSDT took 0.009473323822021484 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for OCEANUSDT took 3.314018249511719e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for EGLDUSDT took 3.8623809814453125e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for FTMUSDT took 3.8623809814453125e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for IMXUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for ONTUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for MINAUSDT took 8.106231689453125e-05 seconds
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['UNFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for APEUSDT took 4.1484832763671875e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for BTCUSDT took 2.9087066650390625e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for RNDRUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for BELUSDT took 3.886222839355469e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for ORDIUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for MEMEUSDT took 5.435943603515625e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for SOLUSDT took 1.7642974853515625e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for OPUSDT took 2.002716064453125e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for VETUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for BANDUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for GMXUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for STRAXUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for LINKUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for LQTYUSDT took 2.288818359375e-05 seconds
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['OCEANUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['EGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['FTMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for YGGUSDT took 5.9604644775390625e-05 seconds
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['IMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:160} INFO - Socket processing for ETHUSDT took 3.5762786865234375e-05 seconds
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['ONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['MINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:02] p4707 {main.py:183} INFO - ['APEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['RNDRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BELUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ORDIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['MEMEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['SOLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['OPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['VETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['GMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['STRAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['LINKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['LQTYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['YGGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ETHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for MANAUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for 1INCHUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for ALGOUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for AGIXUSDT took 1.4781951904296875e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for LTCUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for JTOUSDT took 1.6927719116210938e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for UNIUSDT took 1.621246337890625e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for SNXUSDT took 1.9073486328125e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for RADUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for BEAMXUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for USTCUSDT took 3.0517578125e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for ADAUSDT took 2.7179718017578125e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for TIAUSDT took 5.888938903808594e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['MANAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for SUSHIUSDT took 5.984306335449219e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for USDCUSDT took 5.269050598144531e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['1INCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for XRPUSDT took 3.600120544433594e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for BAKEUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for SANDUSDT took 2.956390380859375e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ALGOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for WLDUSDT took 5.650520324707031e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for XLMUSDT took 4.601478576660156e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['AGIXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['LTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['JTOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['UNIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['SNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['RADUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BEAMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for ENJUSDT took 5.650520324707031e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['USTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ADAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['TIAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['SUSHIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['USDCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['XRPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for RSRUSDT took 3.981590270996094e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['SANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['WLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['XLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ENJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['RSRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for FXSUSDT took 4.76837158203125e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['FXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for XMRUSDT took 7.43865966796875e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['XMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for GMTUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['GMTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for BNBUSDT took 6.079673767089844e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BNBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for INJUSDT took 5.269050598144531e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for BLURUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['INJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['BLURUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for DOGEUSDT took 3.981590270996094e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['DOGEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for OGNUSDT took 3.5762786865234375e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['OGNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for DYDXUSDT took 4.315376281738281e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['DYDXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for TRXUSDT took 3.647804260253906e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['TRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for ARBUSDT took 3.600120544433594e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['ARBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for SPELLUSDT took 6.29425048828125e-05 seconds
+[12-10 15:05:03] p4707 {main.py:183} INFO - ['SPELLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:03] p4707 {main.py:194} INFO - read csv file took for 0.03240799903869629
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for AVAXUSDT took 3.504753112792969e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for NEOUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for ATOMUSDT took 2.6941299438476562e-05 seconds
+[12-10 15:05:03] p4707 {main.py:160} INFO - Socket processing for SUIUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:05:03] p4707 {main.py:194} INFO - read csv file took for 0.010460853576660156
+[12-10 15:05:04] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 0.24473261833190918
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['AVAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for KNCUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['NEOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ATOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['SUIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['KNCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DOTUSDT took 3.409385681152344e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['DOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for KLAYUSDT took 5.245208740234375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['KLAYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RUNEUSDT took 3.9577484130859375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['RUNEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CHZUSDT took 4.8160552978515625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['CHZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for WOOUSDT took 6.270408630371094e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['WOOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for JOEUSDT took 4.267692565917969e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['JOEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GALAUSDT took 3.719329833984375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['GALAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ICPUSDT took 3.743171691894531e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ICPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for AGLDUSDT took 5.4836273193359375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['AGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CAKEUSDT took 4.38690185546875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['CAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for APTUSDT took 6.008148193359375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['APTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for QNTUSDT took 7.152557373046875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for KEYUSDT took 4.792213439941406e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for WAVESUSDT took 3.886222839355469e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RLCUSDT took 2.3603439331054688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RIFUSDT took 4.267692565917969e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for POLYXUSDT took 3.075599670410156e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STPTUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MBLUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HOTUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for NMRUSDT took 1.621246337890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ILVUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CELRUSDT took 1.9073486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MTLUSDT took 3.24249267578125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for WAXPUSDT took 3.552436828613281e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STEEMUSDT took 3.600120544433594e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for NTRNUSDT took 6.175041198730469e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for PHBUSDT took 5.698204040527344e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for OXTUSDT took 3.361701965332031e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BADGERUSDT took 1.7642974853515625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for XTZUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HIFIUSDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TRUUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for XEMUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for AAVEUSDT took 0.0004286766052246094 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ASTRUSDT took 3.0040740966796875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for KSMUSDT took 4.267692565917969e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MKRUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STXUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RVNUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['QNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ALICEUSDT took 3.528594970703125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DARUSDT took 3.814697265625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CRVUSDT took 2.7179718017578125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for QTUMUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GALUSDT took 2.47955322265625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ARKUSDT took 5.459785461425781e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SEIUSDT took 2.5033950805664062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for KAVAUSDT took 2.5033950805664062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ATAUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HFTUSDT took 1.621246337890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for OMGUSDT took 1.52587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LEVERUSDT took 1.4781951904296875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for COMBOUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ICXUSDT took 2.384185791015625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SNTUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ONGUSDT took 6.580352783203125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ONEUSDT took 2.09808349609375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BNXUSDT took 2.47955322265625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for IOTXUSDT took 6.651878356933594e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LDOUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ROSEUSDT took 3.838539123535156e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SKLUSDT took 1.6927719116210938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CTKUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TWTUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for FILUSDT took 3.3855438232421875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LPTUSDT took 3.314018249511719e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ZECUSDT took 2.0265579223632812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HBARUSDT took 3.552436828613281e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BATUSDT took 3.1948089599609375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BNTUSDT took 4.124641418457031e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GRTUSDT took 2.4318695068359375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for API3USDT took 2.7179718017578125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SFPUSDT took 2.193450927734375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SXPUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for FETUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for FLMUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TOMOUSDT took 1.811981201171875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for PENDLEUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MAGICUSDT took 1.52587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SLPUSDT took 1.2874603271484375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TUSDT took 2.002716064453125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DENTUSDT took 1.621246337890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for COMPUSDT took 2.8848648071289062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MASKUSDT took 1.1920928955078125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GASUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for XVGUSDT took 1.2159347534179688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RENUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for PEOPLEUSDT took 1.3113021850585938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LOOMUSDT took 1.4781951904296875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BLZUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for AUDIOUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HIGHUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BONDUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for YFIUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ARPAUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LINAUSDT took 1.811981201171875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GTCUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ZILUSDT took 1.5974044799804688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BICOUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for EDUUSDT took 1.9073486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MATICUSDT took 2.193450927734375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for XVSUSDT took 1.52587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TRBUSDT took 1.430511474609375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for COTIUSDT took 1.2159347534179688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ENSUSDT took 1.811981201171875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ZENUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for PERPUSDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for IOSTUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for TLMUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ACHUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for FLOWUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DGBUSDT took 1.5735626220703125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SUPERUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for THETAUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CHRUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for IOTAUSDT took 2.002716064453125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DUSKUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ETCUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BALUSDT took 4.6253204345703125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ANTUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for EOSUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LITUSDT took 2.5272369384765625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for LRCUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for IDEXUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BTCSTUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ARKMUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for NKNUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for GLMRUSDT took 1.239776611328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for DASHUSDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MDTUSDT took 1.1444091796875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for NEARUSDT took 1.239776611328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CELOUSDT took 1.1920928955078125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STMXUSDT took 1.239776611328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for AMBUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CYBERUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ARUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for BCHUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STORJUSDT took 1.9073486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for STGUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for HOOKUSDT took 1.3113021850585938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for MAVUSDT took 1.9073486328125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CVXUSDT took 1.7881393432617188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for POWRUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for JASMYUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for SSVUSDT took 1.621246337890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ALPHAUSDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CTSIUSDT took 1.2874603271484375e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for REEFUSDT took 1.7881393432617188e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ANKRUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for AXSUSDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for FRONTUSDT took 1.3113021850585938e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CKBUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for C98USDT took 1.2636184692382812e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for ZRXUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for CFXUSDT took 1.33514404296875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for UMAUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for RDNTUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:05:04] p4707 {main.py:160} INFO - Socket processing for IDUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['KEYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['WAVESUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['RLCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['RIFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['POLYXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['STPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['MBLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['HOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['NMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ILVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['CELRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['MTLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['WAXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['STEEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['NTRNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['PHBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['OXTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['BADGERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['XTZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['HIFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['TRUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['XEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['AAVEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ASTRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['KSMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['MKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['STXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['RVNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ALICEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['DARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['CRVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['QTUMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['GALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ARKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['SEIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['KAVAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ATAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['HFTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['OMGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['LEVERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['COMBOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ICXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['SNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:04] p4707 {main.py:183} INFO - ['ONGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['ONEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['BNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['IOTXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['LDOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['ROSEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['SKLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['CTKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:05] p4707 {main.py:183} INFO - ['TWTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['FILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['LPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ZECUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['HBARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BATUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['GRTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['API3USDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['SFPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['SXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['FETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['FLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['TOMOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['PENDLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['MAGICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['SLPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['TUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['DENTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['COMPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['MASKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['GASUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['XVGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['RENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['PEOPLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['LOOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BLZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['AUDIOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['HIGHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BONDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['YFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ARPAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['LINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['GTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ZILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BICOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['EDUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['MATICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['XVSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['TRBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['COTIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ENSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ZENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['PERPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['IOSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['TLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ACHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['FLOWUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['DGBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['SUPERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['THETAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CHRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['IOTAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['DUSKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ETCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ANTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['EOSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['LITUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['LRCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['IDEXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BTCSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ARKMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['NKNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['GLMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['DASHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['MDTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['NEARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CELOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['STMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['AMBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CYBERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['BCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['STORJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['STGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['HOOKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['MAVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CVXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['POWRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['JASMYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['SSVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ALPHAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CTSIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['REEFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ANKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['AXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['FRONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CKBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['C98USDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['ZRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['CFXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['UMAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['RDNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:06] p4707 {main.py:183} INFO - ['IDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:05:07] p4707 {main.py:194} INFO - read csv file took for 0.012419462203979492
+[12-10 15:05:07] p4707 {main.py:194} INFO - read csv file took for 0.01420736312866211
+[12-10 15:05:07] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 0.12531208992004395
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for VETUSDT took 0.0017971992492675781 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for OPUSDT took 2.7418136596679688e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for XRPUSDT took 4.1961669921875e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for APTUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BEAMXUSDT took 2.288818359375e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BELUSDT took 2.6702880859375e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for EGLDUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['VETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for RUNEUSDT took 3.0040740966796875e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for FILUSDT took 4.863739013671875e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['OPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['XRPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['APTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BEAMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BELUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['EGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['RUNEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['FILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for ATOMUSDT took 5.2928924560546875e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for ARBUSDT took 2.002716064453125e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['ATOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['ARBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BTCUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for LQTYUSDT took 3.147125244140625e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['LQTYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for AXSUSDT took 9.608268737792969e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['AXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for JTOUSDT took 3.790855407714844e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['JTOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BLURUSDT took 3.123283386230469e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BCHUSDT took 3.218650817871094e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BAKEUSDT took 3.9577484130859375e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BLURUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for USTCUSDT took 4.267692565917969e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['USTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for SOLUSDT took 3.147125244140625e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['SOLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for ADAUSDT took 6.747245788574219e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for TIAUSDT took 3.0517578125e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['ADAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['TIAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for USDCUSDT took 4.601478576660156e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['USDCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for GMXUSDT took 3.457069396972656e-05 seconds
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for BNBUSDT took 2.9325485229492188e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['GMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['BNBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for SANDUSDT took 3.4332275390625e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['SANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for CYBERUSDT took 4.38690185546875e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['CYBERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for SUIUSDT took 2.288818359375e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['SUIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:02] p4707 {main.py:160} INFO - Socket processing for FTMUSDT took 4.124641418457031e-05 seconds
+[12-10 15:10:02] p4707 {main.py:183} INFO - ['FTMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for STXUSDT took 4.649162292480469e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['STXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for LPTUSDT took 5.91278076171875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['LPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for TWTUSDT took 3.981590270996094e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['TWTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for IDUSDT took 4.1484832763671875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['IDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for BONDUSDT took 6.103515625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['BONDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for CFXUSDT took 9.107589721679688e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for IMXUSDT took 4.100799560546875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['CFXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['IMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for ORDIUSDT took 4.863739013671875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['ORDIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for TRBUSDT took 5.0067901611328125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['TRBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for EDUUSDT took 6.628036499023438e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['EDUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for HOTUSDT took 4.792213439941406e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['HOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for CHZUSDT took 6.103515625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['CHZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for AVAXUSDT took 3.24249267578125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['AVAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for WLDUSDT took 3.8623809814453125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['WLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for LOOMUSDT took 3.886222839355469e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['LOOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for ARKMUSDT took 5.91278076171875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['ARKMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for XVSUSDT took 3.62396240234375e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for GALAUSDT took 2.7894973754882812e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['XVSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['GALAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for WAVESUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['WAVESUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for ETCUSDT took 4.1961669921875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['ETCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for AUDIOUSDT took 5.412101745605469e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for IOSTUSDT took 3.0040740966796875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for SKLUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['AUDIOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['IOSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['SKLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for APEUSDT took 6.341934204101562e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for CAKEUSDT took 2.1457672119140625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for MATICUSDT took 3.0517578125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['APEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for RENUSDT took 4.076957702636719e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['CAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['MATICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['RENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for SUSHIUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['SUSHIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for SUPERUSDT took 5.7697296142578125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['SUPERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for GRTUSDT took 5.3882598876953125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['GRTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for INJUSDT took 3.8623809814453125e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['INJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for ETHUSDT took 4.57763671875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['ETHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for ONGUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['ONGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for HOOKUSDT took 3.719329833984375e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['HOOKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for CELOUSDT took 4.410743713378906e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['CELOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for NEOUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['NEOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for QTUMUSDT took 3.886222839355469e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['QTUMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for AGIXUSDT took 5.4836273193359375e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['AGIXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for DUSKUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['DUSKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for DASHUSDT took 3.695487976074219e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['DASHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for OMGUSDT took 5.5789947509765625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['OMGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for DYDXUSDT took 6.890296936035156e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['DYDXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for BNTUSDT took 6.270408630371094e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['BNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for DOGEUSDT took 3.4332275390625e-05 seconds
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for DOTUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['DOGEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['DOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:03] p4707 {main.py:160} INFO - Socket processing for MEMEUSDT took 3.981590270996094e-05 seconds
+[12-10 15:10:03] p4707 {main.py:183} INFO - ['MEMEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RSRUSDT took 7.176399230957031e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['RSRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RNDRUSDT took 3.910064697265625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['RNDRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for GMTUSDT took 3.170967102050781e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['GMTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RLCUSDT took 8.368492126464844e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['RLCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for JOEUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['JOEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for AMBUSDT took 4.6253204345703125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['AMBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for UNFIUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['UNFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ILVUSDT took 4.458427429199219e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['ILVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for API3USDT took 4.1961669921875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['API3USDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for EOSUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['EOSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LINKUSDT took 4.887580871582031e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['LINKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for UNIUSDT took 3.743171691894531e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['UNIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for PENDLEUSDT took 4.506111145019531e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['PENDLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ZRXUSDT took 5.269050598144531e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['ZRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LDOUSDT took 6.341934204101562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ZECUSDT took 4.601478576660156e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['LDOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['ZECUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for KEYUSDT took 5.7697296142578125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for QNTUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RIFUSDT took 5.0067901611328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for POLYXUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for STPTUSDT took 1.621246337890625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for WAXPUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for OGNUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MTLUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for NTRNUSDT took 2.193450927734375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MBLUSDT took 1.430511474609375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for OXTUSDT took 1.3113021850585938e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for CELRUSDT took 2.574920654296875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for NMRUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for XEMUSDT took 3.695487976074219e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for XTZUSDT took 1.811981201171875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for PHBUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BANDUSDT took 1.430511474609375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for STEEMUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for HIFIUSDT took 1.33514404296875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['KEYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:194} INFO - read csv file took for 0.03623700141906738
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ARKUSDT took 3.218650817871094e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BLZUSDT took 3.552436828613281e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BADGERUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for GALUSDT took 2.0265579223632812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for TRUUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ARPAUSDT took 2.0265579223632812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for CRVUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MKRUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for COMBOUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for TRXUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for GTCUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SPELLUSDT took 2.574920654296875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for OCEANUSDT took 2.4557113647460938e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for KAVAUSDT took 2.002716064453125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for DARUSDT took 2.5987625122070312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for KNCUSDT took 2.002716064453125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LTCUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BNXUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ICXUSDT took 2.09808349609375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SNTUSDT took 1.9073486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ASTRUSDT took 1.7642974853515625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MANAUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BTCSTUSDT took 1.811981201171875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for CTKUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for WOOUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RVNUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ALICEUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for AAVEUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BICOUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for KSMUSDT took 3.314018249511719e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for HFTUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ONEUSDT took 1.9073486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for IOTXUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SEIUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LEVERUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for RADUSDT took 1.7642974853515625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ATAUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for HBARUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SXPUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SLPUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for BATUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for FETUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for XLMUSDT took 2.002716064453125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for YGGUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ROSEUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for FXSUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for TUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for AGLDUSDT took 2.002716064453125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for FLMUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MAGICUSDT took 1.3589859008789062e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for COMPUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for DENTUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for GASUSDT took 1.9073486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for PEOPLEUSDT took 1.52587890625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for SFPUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for HIGHUSDT took 1.9073486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for XVGUSDT took 1.7642974853515625e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for YFIUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ZENUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for MASKUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LINAUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ENSUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for COTIUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for PERPUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for IOTAUSDT took 2.3603439331054688e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ZILUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for THETAUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for LITUSDT took 1.5497207641601562e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for ALGOUSDT took 2.0265579223632812e-05 seconds
+[12-10 15:10:04] p4707 {main.py:160} INFO - Socket processing for FLOWUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:10:04] p4707 {main.py:183} INFO - ['QNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:04] p4707 {main.py:194} INFO - read csv file took for 0.03605008125305176
+[12-10 15:10:10] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:10] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ANTUSDT took 5.2928924560546875e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for 1INCHUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for GLMRUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for KLAYUSDT took 2.288818359375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for CHRUSDT took 2.288818359375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for TLMUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ACHUSDT took 1.9073486328125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for MAVUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for DGBUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for XMRUSDT took 1.811981201171875e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ENJUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for IDEXUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for LRCUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for STGUSDT took 3.2901763916015625e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for BALUSDT took 2.6702880859375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for SSVUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ARUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for CTSIUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for MINAUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for JASMYUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ALPHAUSDT took 2.574920654296875e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for STRAXUSDT took 4.315376281738281e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for MDTUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for REEFUSDT took 2.7179718017578125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for FRONTUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ANKRUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ICPUSDT took 5.4836273193359375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for CVXUSDT took 3.8623809814453125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for POWRUSDT took 2.956390380859375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for STORJUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for STMXUSDT took 2.4318695068359375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for NKNUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for SNXUSDT took 2.3603439331054688e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for NEARUSDT took 2.09808349609375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for CKBUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for C98USDT took 2.193450927734375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for RDNTUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for UMAUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for ONTUSDT took 2.1457672119140625e-05 seconds
+[12-10 15:10:10] p4707 {main.py:160} INFO - Socket processing for TOMOUSDT took 4.8160552978515625e-05 seconds
+[12-10 15:10:10] p4707 {main.py:183} INFO - ['RIFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['POLYXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['WAXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['OGNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MTLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['NTRNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MBLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['OXTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CELRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['NMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['XEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['XTZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['PHBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STEEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['HIFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ARKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BLZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BADGERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['GALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['TRUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ARPAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CRVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['COMBOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['TRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['GTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SPELLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['OCEANUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['KAVAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['DARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['KNCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['LTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ICXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ASTRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MANAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BTCSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CTKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['WOOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['RVNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ALICEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['AAVEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BICOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['KSMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['HFTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ONEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['IOTXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SEIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['LEVERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['RADUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ATAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['HBARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SLPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BATUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['FETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['XLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['YGGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ROSEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['FXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['TUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['AGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['FLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MAGICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['COMPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['DENTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['GASUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['PEOPLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SFPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['HIGHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['XVGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['YFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ZENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MASKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['LINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ENSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['COTIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['PERPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['IOTAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ZILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['THETAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['LITUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ALGOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['FLOWUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ANTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['1INCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['GLMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['KLAYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CHRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['TLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ACHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MAVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['DGBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['XMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ENJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['IDEXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['LRCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['BALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SSVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CTSIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['JASMYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ALPHAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STRAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['MDTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['REEFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['FRONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ANKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ICPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CVXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['POWRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STORJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['STMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['NKNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['SNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['NEARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['CKBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['C98USDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['RDNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['UMAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['ONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:11] p4707 {main.py:183} INFO - ['TOMOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:10:13] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 8.54765009880066
+[12-10 15:10:13] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:13] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:14] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 10.086961030960083
+[12-10 15:10:14] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e1184c9d0>
+[12-10 15:10:14] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e12f676a0>, 187348.419845868)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e1184fd60>
+[12-10 15:10:14] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 10.187371015548706
+[12-10 15:10:14] p4707 {main.py:194} INFO - read csv file took for 0.006309986114501953
+[12-10 15:10:15] p4707 {main.py:194} INFO - read csv file took for 0.00834345817565918
+[12-10 15:10:15] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:15] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:16] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 1.7964422702789307
+[12-10 15:10:16] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:16] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:10:18] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 3.08349347114563
+[12-10 15:10:18] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e11642f70>
+[12-10 15:10:18] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e11849be0>, 187351.546200627)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e12a32f70>
+[12-10 15:10:18] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 3.130932331085205
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for BATUSDT took 6.628036499023438e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['BATUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for ETHUSDT took 2.574920654296875e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['ETHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for OPUSDT took 2.4557113647460938e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for ADAUSDT took 2.7179718017578125e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['OPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['ADAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for AVAXUSDT took 5.4836273193359375e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for ORDIUSDT took 4.172325134277344e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['AVAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['ORDIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for JTOUSDT took 3.790855407714844e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for BTCUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['JTOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['BTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for TIAUSDT took 2.384185791015625e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for SOLUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for KSMUSDT took 3.266334533691406e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['TIAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['SOLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for MAVUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for MINAUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for HOTUSDT took 1.811981201171875e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['KSMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['MAVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for EGLDUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['MINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['HOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['EGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for FILUSDT took 3.266334533691406e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['FILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for GMXUSDT took 3.5762786865234375e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['GMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for TRXUSDT took 3.981590270996094e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['TRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for USDCUSDT took 5.125999450683594e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['USDCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for ENSUSDT took 4.100799560546875e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['ENSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:02] p4707 {main.py:160} INFO - Socket processing for DOGEUSDT took 3.743171691894531e-05 seconds
+[12-10 15:15:02] p4707 {main.py:183} INFO - ['DOGEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for IMXUSDT took 7.295608520507812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['IMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SUPERUSDT took 5.793571472167969e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BLURUSDT took 3.528594970703125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SUPERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BLURUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LDOUSDT took 5.507469177246094e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LDOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for JASMYUSDT took 5.0067901611328125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RUNEUSDT took 5.888938903808594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MASKUSDT took 4.315376281738281e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CAKEUSDT took 2.384185791015625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MANAUSDT took 3.361701965332031e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['JASMYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RUNEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MASKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BNBUSDT took 3.719329833984375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MANAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for PERPUSDT took 3.6716461181640625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ALPHAUSDT took 2.193450927734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BNBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LRCUSDT took 5.53131103515625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['PERPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MDTUSDT took 6.723403930664062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ALPHAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SANDUSDT took 3.719329833984375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ONTUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for HOOKUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ATOMUSDT took 3.933906555175781e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LRCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MDTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for FTMUSDT took 5.555152893066406e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for 1INCHUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['HOOKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AGLDUSDT took 4.601478576660156e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ATOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for FXSUSDT took 6.341934204101562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['FTMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for WLDUSDT took 3.814697265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BICOUSDT took 3.361701965332031e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for XVSUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['1INCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for UNIUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GRTUSDT took 4.696846008300781e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['FXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for KNCUSDT took 3.790855407714844e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['WLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MTLUSDT took 2.6464462280273438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LPTUSDT took 2.288818359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RLCUSDT took 2.47955322265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BICOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['XVSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['UNIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for PHBUSDT took 3.266334533691406e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for OXTUSDT took 4.363059997558594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for DASHUSDT took 8.249282836914062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GRTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BELUSDT took 3.361701965332031e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['KNCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MTLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BALUSDT took 2.193450927734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for STXUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ILVUSDT took 5.0067901611328125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BADGERUSDT took 2.574920654296875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ARKUSDT took 4.363059997558594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RLCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for OMGUSDT took 2.288818359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for APTUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CHZUSDT took 2.4318695068359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['PHBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['OXTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for APEUSDT took 2.7894973754882812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for DOTUSDT took 5.8650970458984375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['DASHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LINKUSDT took 4.57763671875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SNXUSDT took 6.127357482910156e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BELUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CRVUSDT took 2.384185791015625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['STXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ILVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for API3USDT took 4.1484832763671875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for OGNUSDT took 4.4345855712890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for HBARUSDT took 4.673004150390625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BADGERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RNDRUSDT took 4.1484832763671875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for YFIUSDT took 3.838539123535156e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SUSHIUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ARKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['OMGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['APTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CHZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for IOTAUSDT took 3.123283386230469e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['APEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['DOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LINKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CRVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RENUSDT took 7.081031799316406e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GASUSDT took 3.743171691894531e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BONDUSDT took 1.9073486328125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['API3USDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GLMRUSDT took 3.0040740966796875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['OGNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for JOEUSDT took 2.5033950805664062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['HBARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for KEYUSDT took 5.4836273193359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for KAVAUSDT took 5.125999450683594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RNDRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for WAVESUSDT took 3.838539123535156e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['YFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ETCUSDT took 3.743171691894531e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SUSHIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for TUSDT took 5.7220458984375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['IOTAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GASUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for XVGUSDT took 4.482269287109375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BONDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GALUSDT took 4.291534423828125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GLMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['JOEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['KEYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['KAVAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['WAVESUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for DGBUSDT took 4.1484832763671875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ETCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for STORJUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['TUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ROSEUSDT took 2.7894973754882812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['XVGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ASTRUSDT took 3.886222839355469e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AXSUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['DGBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['STORJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ROSEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CVXUSDT took 3.1948089599609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for TWTUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ASTRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CVXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['TWTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ZILUSDT took 0.0001971721649169922 seconds
+[12-10 15:15:03] p4707 {main.py:194} INFO - read csv file took for 0.01714944839477539
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ZILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ZENUSDT took 3.600120544433594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CHRUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CYBERUSDT took 3.3855438232421875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for EDUUSDT took 2.6941299438476562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ARKMUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BCHUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AAVEUSDT took 2.09808349609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for STGUSDT took 6.532669067382812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for NEOUSDT took 4.1961669921875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ARBUSDT took 3.409385681152344e-05 seconds
+[12-10 15:15:03] p4707 {main.py:194} INFO - read csv file took for 0.013178586959838867
+[12-10 15:15:03] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:03] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ZENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CHRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MEMEUSDT took 4.00543212890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for OCEANUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for POWRUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MAGICUSDT took 1.621246337890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SLPUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for HIFIUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for COMPUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MATICUSDT took 1.430511474609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for DYDXUSDT took 1.430511474609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ONEUSDT took 1.5497207641601562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AGIXUSDT took 1.52587890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CTKUSDT took 1.3828277587890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AUDIOUSDT took 2.288818359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for YGGUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for WOOUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for STMXUSDT took 1.5735626220703125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for HIGHUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RSRUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for THETAUSDT took 2.47955322265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LTCUSDT took 4.792213439941406e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ZECUSDT took 1.621246337890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for COTIUSDT took 1.5497207641601562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for EOSUSDT took 2.288818359375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SUIUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for AMBUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RDNTUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for UNFIUSDT took 1.71661376953125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LQTYUSDT took 2.0265579223632812e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for STRAXUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for CTSIUSDT took 4.57763671875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CYBERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for INJUSDT took 3.600120544433594e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for IOSTUSDT took 2.5033950805664062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ARPAUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for XRPUSDT took 3.790855407714844e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ANKRUSDT took 3.981590270996094e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RADUSDT took 4.076957702636719e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GALAUSDT took 3.170967102050781e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SPELLUSDT took 3.933906555175781e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for NTRNUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['EDUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for TRUUSDT took 4.458427429199219e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for MKRUSDT took 5.14984130859375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ICXUSDT took 2.8848648071289062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ACHUSDT took 2.7418136596679688e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RVNUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for VETUSDT took 1.5974044799804688e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for IDEXUSDT took 1.52587890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for PEOPLEUSDT took 2.09808349609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SSVUSDT took 1.4543533325195312e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ALGOUSDT took 2.09808349609375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for GMTUSDT took 2.193450927734375e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SEIUSDT took 2.6226043701171875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for NEARUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for USTCUSDT took 1.71661376953125e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for IOTXUSDT took 1.621246337890625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for XLMUSDT took 2.8848648071289062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SNTUSDT took 2.47955322265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for UMAUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ARKMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BAKEUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AAVEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SXPUSDT took 3.695487976074219e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['STGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['NEOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ARBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MEMEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['OCEANUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['POWRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MAGICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for XMRUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SLPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['HIFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['COMPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MATICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['DYDXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ONEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AGIXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CTKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for BLZUSDT took 2.6941299438476562e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ZRXUSDT took 4.0531158447265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for PENDLEUSDT took 3.170967102050781e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AUDIOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['YGGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['WOOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['STMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for FETUSDT took 3.337860107421875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['HIGHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for TRBUSDT took 4.0531158447265625e-05 seconds
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for KLAYUSDT took 2.5033950805664062e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RSRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['THETAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ZECUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['COTIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['EOSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SUIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['AMBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RDNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['UNFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['LQTYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['STRAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for RIFUSDT took 5.340576171875e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['CTSIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['INJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for LEVERUSDT took 3.266334533691406e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['IOSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ENJUSDT took 4.744529724121094e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ARPAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['XRPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ANKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RADUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for SFPUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GALAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SPELLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['NTRNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['TRUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['MKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for ARUSDT took 3.838539123535156e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ICXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ACHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['RVNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['VETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['IDEXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['PEOPLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SSVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ALGOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['GMTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SEIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['NEARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['USTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['IOTXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['XLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['UMAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['SXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['XMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['BLZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['ZRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['PENDLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:160} INFO - Socket processing for FLOWUSDT took 6.246566772460938e-05 seconds
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['FETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:03] p4707 {main.py:183} INFO - ['TRBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['KLAYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['RIFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['LEVERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ENJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['SFPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['FLOWUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for HFTUSDT took 4.6253204345703125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['HFTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for CELRUSDT took 6.29425048828125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['CELRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for MBLUSDT took 5.340576171875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['MBLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for C98USDT took 4.2438507080078125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['C98USDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for GTCUSDT took 4.38690185546875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['GTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for POLYXUSDT took 3.552436828613281e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for QNTUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['POLYXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for STPTUSDT took 3.4809112548828125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for NMRUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for XTZUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for XEMUSDT took 2.384185791015625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for STEEMUSDT took 2.002716064453125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['QNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for ALICEUSDT took 3.504753112792969e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for BANDUSDT took 2.5272369384765625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for WAXPUSDT took 5.1975250244140625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for SKLUSDT took 3.600120544433594e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for ONGUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for ATAUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for DUSKUSDT took 2.47955322265625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for BNXUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for BNTUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for DARUSDT took 2.1457672119140625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for QTUMUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for LINAUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for FLMUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for TOMOUSDT took 1.8358230590820312e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for LOOMUSDT took 3.0040740966796875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for ANTUSDT took 5.221366882324219e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for DENTUSDT took 4.744529724121094e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for LITUSDT took 3.814697265625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for COMBOUSDT took 3.3855438232421875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for BTCSTUSDT took 0.0001499652862548828 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for NKNUSDT took 6.365776062011719e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['STPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for CELOUSDT took 4.076957702636719e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for BEAMXUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for TLMUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for CKBUSDT took 2.574920654296875e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for FRONTUSDT took 2.765655517578125e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for REEFUSDT took 2.3603439331054688e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for CFXUSDT took 2.47955322265625e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for ICPUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:15:04] p4707 {main.py:160} INFO - Socket processing for IDUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['NMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['XTZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['XEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['STEEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ALICEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['BANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['WAXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['SKLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ONGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ATAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['DUSKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['BNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['BNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['DARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['QTUMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['LINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['FLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['TOMOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['LOOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ANTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['DENTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['LITUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['COMBOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['BTCSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['NKNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['CELOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['BEAMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['TLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['CKBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['FRONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['REEFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['CFXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['ICPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:04] p4707 {main.py:183} INFO - ['IDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:15:05] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 1.8682057857513428
+[12-10 15:15:05] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:05] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:06] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 3.3139164447784424
+[12-10 15:15:06] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e1184c070>
+[12-10 15:15:06] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e42a47c40>, 187640.228111032)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e12b94430>
+[12-10 15:15:06] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 3.3952105045318604
+[12-10 15:15:06] p4707 {main.py:194} INFO - read csv file took for 0.017884254455566406
+[12-10 15:15:06] p4707 {main.py:194} INFO - read csv file took for 0.04077935218811035
+[12-10 15:15:07] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:07] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:15:08] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 1.8916337490081787
+[12-10 15:15:08] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e301a78b0>
+[12-10 15:15:08] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e12b64280>, 187642.183676998)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e12b1d400>
+[12-10 15:15:08] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 1.9536807537078857
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for LINKUSDT took 6.914138793945312e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['LINKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for ADAUSDT took 3.647804260253906e-05 seconds
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for AVAXUSDT took 3.314018249511719e-05 seconds
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for JTOUSDT took 4.267692565917969e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['ADAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['AVAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['JTOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for WLDUSDT took 3.123283386230469e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['WLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for DENTUSDT took 5.650520324707031e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['DENTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for LITUSDT took 5.221366882324219e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['LITUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for STXUSDT took 6.699562072753906e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['STXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for THETAUSDT took 2.6941299438476562e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['THETAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for TIAUSDT took 4.601478576660156e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['TIAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for BTCUSDT took 5.173683166503906e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['BTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for GMXUSDT took 3.719329833984375e-05 seconds
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for BATUSDT took 4.935264587402344e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['GMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['BATUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for OPUSDT took 4.1961669921875e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['OPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for HOTUSDT took 3.838539123535156e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['HOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for USDCUSDT took 3.695487976074219e-05 seconds
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for EOSUSDT took 3.933906555175781e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['USDCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['EOSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for ETHUSDT took 3.62396240234375e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['ETHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for SSVUSDT took 3.314018249511719e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['SSVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for FLOWUSDT took 4.410743713378906e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['FLOWUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for BONDUSDT took 3.62396240234375e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['BONDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for MEMEUSDT took 5.364418029785156e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['MEMEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:02] p4707 {main.py:160} INFO - Socket processing for USTCUSDT took 3.9577484130859375e-05 seconds
+[12-10 15:20:02] p4707 {main.py:183} INFO - ['USTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ONGUSDT took 3.647804260253906e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ONGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for IDUSDT took 3.886222839355469e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['IDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SFPUSDT took 3.647804260253906e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SFPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SOLUSDT took 5.8650970458984375e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SOLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for WAVESUSDT took 4.601478576660156e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for TRXUSDT took 3.552436828613281e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['WAVESUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SUIUSDT took 5.269050598144531e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['TRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SUIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for BAKEUSDT took 3.933906555175781e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['BAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SANDUSDT took 7.295608520507812e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for EGLDUSDT took 4.5299530029296875e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['EGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ZILUSDT took 4.0531158447265625e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ZILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for QTUMUSDT took 3.743171691894531e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['QTUMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SUPERUSDT took 3.62396240234375e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SUPERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for XLMUSDT took 3.886222839355469e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['XLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for IMXUSDT took 6.842613220214844e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['IMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for FTMUSDT took 8.034706115722656e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['FTMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for HIFIUSDT took 5.269050598144531e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['HIFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for RUNEUSDT took 8.96453857421875e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['RUNEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ARPAUSDT took 4.649162292480469e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ARPAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for GMTUSDT took 5.459785461425781e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['GMTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for GASUSDT took 5.459785461425781e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['GASUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for IOTAUSDT took 4.649162292480469e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['IOTAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for RLCUSDT took 4.935264587402344e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['RLCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ROSEUSDT took 3.719329833984375e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ROSEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ARKMUSDT took 3.4332275390625e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for BEAMXUSDT took 2.765655517578125e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for CYBERUSDT took 1.811981201171875e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for RNDRUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for DYDXUSDT took 1.52587890625e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for BNBUSDT took 2.002716064453125e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for SUSHIUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ARKMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for UNFIUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for XTZUSDT took 3.981590270996094e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['BEAMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['CYBERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['RNDRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['DYDXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['BNBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['SUSHIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['UNFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['XTZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for XRPUSDT took 5.459785461425781e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['XRPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for GTCUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['GTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for STRAXUSDT took 5.2928924560546875e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['STRAXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ATOMUSDT took 3.528594970703125e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ATOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for DOTUSDT took 3.2901763916015625e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['DOTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for DOGEUSDT took 4.100799560546875e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['DOGEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for APEUSDT took 8.559226989746094e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['APEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for ZRXUSDT took 5.054473876953125e-05 seconds
+[12-10 15:20:03] p4707 {main.py:183} INFO - ['ZRXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:03] p4707 {main.py:160} INFO - Socket processing for JOEUSDT took 7.700920104980469e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['JOEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BLURUSDT took 6.794929504394531e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SPELLUSDT took 8.606910705566406e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BLURUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['SPELLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ALGOUSDT took 3.4332275390625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ORDIUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ARUSDT took 2.09808349609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for REEFUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ALGOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ORDIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for DGBUSDT took 9.703636169433594e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['REEFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['DGBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:194} INFO - read csv file took for 0.019943714141845703
+[12-10 15:20:04] p4707 {main.py:194} INFO - read csv file took for 0.012285947799682617
+[12-10 15:20:04] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:20:04] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BANDUSDT took 4.00543212890625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BELUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for YFIUSDT took 1.9311904907226562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BANDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BELUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['YFIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for HOOKUSDT took 3.743171691894531e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['HOOKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ARBUSDT took 4.744529724121094e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ARBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AGIXUSDT took 4.00543212890625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['AGIXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for NEOUSDT took 3.123283386230469e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['NEOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TRBUSDT took 5.316734313964844e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['TRBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for FILUSDT took 6.246566772460938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['FILUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LRCUSDT took 5.1021575927734375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['LRCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MATICUSDT took 6.67572021484375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['MATICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for EDUUSDT took 2.4557113647460938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['EDUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for APTUSDT took 6.079673767089844e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for STPTUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for POLYXUSDT took 2.5272369384765625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for KEYUSDT took 3.790855407714844e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MTLUSDT took 2.8371810913085938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CELRUSDT took 5.245208740234375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for NTRNUSDT took 4.0531158447265625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for OGNUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for QNTUSDT took 2.288818359375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['APTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for VETUSDT took 5.2928924560546875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MBLUSDT took 3.170967102050781e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for NMRUSDT took 2.4318695068359375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LQTYUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ILVUSDT took 1.9073486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RIFUSDT took 3.218650817871094e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for WAXPUSDT took 4.744529724121094e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for XEMUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MKRUSDT took 4.601478576660156e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BADGERUSDT took 3.886222839355469e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for PHBUSDT took 3.409385681152344e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for STEEMUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for OXTUSDT took 6.198883056640625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for WOOUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RVNUSDT took 3.314018249511719e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for KSMUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TRUUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ALICEUSDT took 6.079673767089844e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ASTRUSDT took 3.719329833984375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for KNCUSDT took 3.790855407714844e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BLZUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AAVEUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['STPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for COMBOUSDT took 6.341934204101562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for GALAUSDT took 4.482269287109375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for GALUSDT took 3.170967102050781e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MANAUSDT took 2.6702880859375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ARKUSDT took 3.1948089599609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RSRUSDT took 3.361701965332031e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CRVUSDT took 4.291534423828125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for DARUSDT took 2.5987625122070312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ICXUSDT took 7.772445678710938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LTCUSDT took 2.8848648071289062e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BNXUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SNTUSDT took 2.7418136596679688e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for HFTUSDT took 1.8596649169921875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SEIUSDT took 2.3603439331054688e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for OCEANUSDT took 1.430511474609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for KAVAUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LDOUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LEVERUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for OMGUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for IOTXUSDT took 3.743171691894531e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CTKUSDT took 2.09808349609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ONEUSDT took 2.09808349609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CHZUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for UNIUSDT took 1.7404556274414062e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for API3USDT took 2.09808349609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ATAUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RADUSDT took 2.4557113647460938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for FLMUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AGLDUSDT took 1.8835067749023438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for HIGHUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SXPUSDT took 3.719329833984375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for GRTUSDT took 2.5510787963867188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for YGGUSDT took 2.6941299438476562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BICOUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for FXSUSDT took 4.0531158447265625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SKLUSDT took 2.574920654296875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AUDIOUSDT took 2.384185791015625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ZECUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LPTUSDT took 2.765655517578125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SLPUSDT took 3.337860107421875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MASKUSDT took 1.5020370483398438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MAGICUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BNTUSDT took 1.5735626220703125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RENUSDT took 4.673004150390625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LINAUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for INJUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for PENDLEUSDT took 2.384185791015625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TOMOUSDT took 5.936622619628906e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for COTIUSDT took 2.8133392333984375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for PEOPLEUSDT took 5.3882598876953125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for XVGUSDT took 3.719329833984375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for HBARUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for LOOMUSDT took 7.104873657226562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for FETUSDT took 5.555152893066406e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ZENUSDT took 4.792213439941406e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TWTUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CTSIUSDT took 4.4345855712890625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for GLMRUSDT took 2.6464462280273438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for COMPUSDT took 2.4557113647460938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ETCUSDT took 1.6689300537109375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for IDEXUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CHRUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BALUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for IOSTUSDT took 4.029273986816406e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for PERPUSDT took 2.2172927856445312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for 1INCHUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for KLAYUSDT took 2.3365020751953125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for TLMUSDT took 2.1696090698242188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ANTUSDT took 3.0279159545898438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for DASHUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for XMRUSDT took 1.5974044799804688e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CAKEUSDT took 2.9802322387695312e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for STGUSDT took 2.1219253540039062e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BTCSTUSDT took 1.6450881958007812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for NKNUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CELOUSDT took 1.6927719116210938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MINAUSDT took 3.7670135498046875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MDTUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for SNXUSDT took 4.6253204345703125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for XVSUSDT took 2.288818359375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for NEARUSDT took 2.4080276489257812e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ALPHAUSDT took 2.2649765014648438e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for JASMYUSDT took 1.9550323486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AMBUSDT took 2.4318695068359375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for STORJUSDT took 4.363059997558594e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for STMXUSDT took 2.09808349609375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ACHUSDT took 2.574920654296875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for POWRUSDT took 1.9788742065429688e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for BCHUSDT took 4.4345855712890625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for C98USDT took 1.9073486328125e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ENJUSDT took 1.5974044799804688e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ANKRUSDT took 1.52587890625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CFXUSDT took 1.4781951904296875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ONTUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ENSUSDT took 1.811981201171875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for MAVUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CVXUSDT took 1.4066696166992188e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for FRONTUSDT took 2.193450927734375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for CKBUSDT took 2.0742416381835938e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for AXSUSDT took 2.3126602172851562e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for DUSKUSDT took 2.1457672119140625e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for ICPUSDT took 2.0503997802734375e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for UMAUSDT took 2.2411346435546875e-05 seconds
+[12-10 15:20:04] p4707 {main.py:160} INFO - Socket processing for RDNTUSDT took 6.937980651855469e-05 seconds
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['POLYXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['KEYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['MTLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['CELRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['NTRNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['OGNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['QNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['VETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['MBLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['NMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['LQTYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ILVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['RIFUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['WAXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['XEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['MKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BADGERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['PHBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['STEEMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['OXTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['WOOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['RVNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['KSMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['TRUUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ALICEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ASTRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['KNCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BLZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['AAVEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['COMBOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['GALAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['GALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['MANAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ARKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['RSRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['CRVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['DARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['ICXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['LTCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:04] p4707 {main.py:183} INFO - ['BNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['HFTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SEIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['OCEANUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['KAVAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['LDOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['LEVERUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['OMGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['IOTXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CTKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ONEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CHZUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['UNIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['API3USDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ATAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['RADUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['FLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['AGLDUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['HIGHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SXPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['GRTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['YGGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['BICOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['FXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['TUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SKLUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['AUDIOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ZECUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['LPTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SLPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['MASKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['MAGICUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['BNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['RENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['LINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['INJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['PENDLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['TOMOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['COTIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['PEOPLEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['XVGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['HBARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['LOOMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['FETUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ZENUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['TWTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CTSIUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['GLMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['COMPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ETCUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['IDEXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CHRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['BALUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['IOSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['PERPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['1INCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['KLAYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['TLMUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ANTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['DASHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['XMRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CAKEUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['STGUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['BTCSTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['NKNUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CELOUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['MINAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['MDTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['SNXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['XVSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['NEARUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ALPHAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['JASMYUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['AMBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['STORJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['STMXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ACHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['POWRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['BCHUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['C98USDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ENJUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ANKRUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CFXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ENSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['MAVUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CVXUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['FRONTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['CKBUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['AXSUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['DUSKUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['ICPUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['UMAUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:05] p4707 {main.py:183} INFO - ['RDNTUSDT'] data appended to taker_volume_dataset file
+[12-10 15:20:06] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 2.5624840259552
+[12-10 15:20:06] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e12de6700>
+[12-10 15:20:06] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e12a96400>, 187940.12440751)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e12bc89a0>
+[12-10 15:20:06] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 2.615558385848999
+[12-10 15:20:06] p4707 {main.py:194} INFO - read csv file took for 0.036011695861816406
+[12-10 15:20:06] p4707 {main.py:194} INFO - read csv file took for 0.009052515029907227
+[12-10 15:20:06] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:20:06] p4707 {/home/juhan/python-binance/tutorial2/lib/python3.8/site-packages/matplotlib/category.py:223} INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[12-10 15:20:08] p4707 {main.py:270} INFO - plotting and sending graph to telegram took for 1.848330020904541
+[12-10 15:20:08] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f8e1189abe0>
+[12-10 15:20:08] p4707 {/usr/lib/python3.8/asyncio/base_events.py:1707} ERROR - Unclosed connector
+connections: ['[(<aiohttp.client_proto.ResponseHandler object at 0x7f8e42a38d60>, 187942.090087725)]']
+connector: <aiohttp.connector.TCPConnector object at 0x7f8e1189a670>
+[12-10 15:20:08] p4707 {main.py:317} INFO - measure_real_time_hyped_taker_volume_task took for 1.9364545345306396
