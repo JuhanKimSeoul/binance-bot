@@ -24,6 +24,7 @@ import functools
 # A single connection is only valid for 24 hours; expect to be disconnected at the 24 hour mark
 
 # if linux server time is not synced with the real time, then executes this
+# is the server not going to slow down if I migrate it into AWS ec2?
 # sudo hwclock -s
 
 # Turn off interactive mode -> do not display automatically
@@ -74,8 +75,9 @@ class Formatter(logging.Formatter):
     def converter(self, timestamp):
         dt = datetime.datetime.fromtimestamp(timestamp)
         tzinfo = pytz.timezone('Asia/Seoul')
+        # change utc time into korean utc time
         return tzinfo.localize(dt)
-        
+         
     def formatTime(self, record, datefmt=None):
         dt = self.converter(record.created)
         if datefmt:
@@ -138,10 +140,11 @@ async def process_socket(symbol, interval, q):
                     # Check if the kline is closed
                     if kline_data['x']:
                         start_time = time.time()    
+
                         timestamp = float(kline_data['T'])
-                        time_utc = datetime.datetime.utcfromtimestamp(timestamp / 1000.0)
+                        time_utc = datetime.datetime.fromtimestamp(timestamp / 1000.0)
                         # Convert UTC time to dateTime Object -> Convert to Korean UTC time
-                        time_korean_utc = utc_timezone.localize(time_utc).astimezone(korean_timezone)
+                        time_korean_utc = time_utc.astimezone(korean_timezone)
                         # columns will be ('symbol', 'timestamp', 'value')
                         payload = (symbol, time_korean_utc, float(kline_data['Q']))
                         key_set = ('symbol', 'timestamp', 'value')
@@ -228,7 +231,9 @@ async def plot_taker_buy_volume_graph(symbols):
     dp = Dispatcher()
     try:
         df = await async_read_csv(file_path)
-        df['timestamp'] = pd.to_datetime(df['timestamp']).dt.strftime('%Y-%m-%d %H:%M')
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        # autodatelocator will interpret the timezone unless setting localization.
+        df['timestamp'] = df['timestamp'].dt.tz_localize(None) 
 
         for symbol, group in df.groupby('symbol'):
             if symbol in symbols:
