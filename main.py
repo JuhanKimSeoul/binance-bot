@@ -15,70 +15,89 @@ import io
 import logging
 import time
 import functools
+import argparse
 
-# From Binance API
+'''[From Binance API]
+WebSocket connections have a limit of 10 incoming messages per second.
+A connection that goes beyond the limit will be disconnected; IPs that are repeatedly disconnected may be banned.
+A single connection can listen to a maximum of 200 streams.
+A single connection is only valid for 24 hours; expect to be disconnected at the 24 hour mark
+'''
 
-# WebSocket connections have a limit of 10 incoming messages per second.
-# A connection that goes beyond the limit will be disconnected; IPs that are repeatedly disconnected may be banned.
-# A single connection can listen to a maximum of 200 streams.
-# A single connection is only valid for 24 hours; expect to be disconnected at the 24 hour mark
+'''[Server Time Setting Tips]
+if linux server time is not synced with the real time like in wsl environment, then executes this
+    sudo hwclock -s
 
-# if linux server time is not synced with the real time, then executes this
-# is the server not going to slow down if I migrate it into AWS ec2?
-# sudo hwclock -s
+if you are running this program on remote server(linux), then you should set the timezone of the server yourself 
+for checking log
 
-# Turn off interactive mode -> do not display automatically
-plt.ioff()
+'''
+#########################################################################################
+#########################################################################################
+#########################################################################################
+'''Create an Argument Parser'''
+parser = argparse.ArgumentParser(description='Script to perform some operation on a file.')
 
-# get data from server and sync continously for each 1 hour.
-symbols = []
+# Add a positional argument for the input file
+parser.add_argument('function', type=str, help='function')
 
-# mean of the taker buy volume value by symbols
-mean = {}
+# Add an optional argument for the output file
+parser.add_argument('--output', type=str, help='file name of output', default='taker_buy_volume.csv')
+parser.add_argument('--timezone', type=str, help='timezone which you are going to convert into', default='Asia/Seoul')
+parser.add_argument('--interval', type=str, help='kline interval', default='5m')
+parser.add_argument('--timedelta', type=int, help='timedelta(minutes) for getting mean value', default='60')
+parser.add_argument('--multiplier', type=int, help='multiplier for threshold of alarming', default='5')
+parser.add_argument('--timeout', type=int, help='timeout(seconds) for getting data from server', default='300')
+
+# Add a flag for verbose mode (default is False)
+parser.add_argument('--verbose', action='store_true', help='Enable verbose mode')
+
+# Parse the command-line arguments
+args = parser.parse_args()
+#########################################################################################
+#########################################################################################
+#########################################################################################
+'''Global Variables'''
+# Queue to communicate between producer and consumer
+# the reason why this getting queue code should not be here is : initiating Queue makes an event loop if it is not executed on coroutine or a callback
+# plotting_queue = asyncio.Queue()
 
 # for time frame replacing to seoul standard
 # seoul : GMT + 9
-utc_timezone = pytz.timezone('UTC')
-korean_timezone = pytz.timezone('Asia/Seoul')
+timezone = pytz.timezone(args.timezone)
 
 # saved file path
-file_path = './taker_volume_dataset.csv'
+file_path = args.output
 
 # kline interval variable 
 # default 5m
-interval = '5m'
+interval = args.interval
 
 # timedelta, multiplier for measuring the mean taker buy volume
-timedelta = 60
-multiplier = 5
+timedelta = args.timedelta
+multiplier = args.multiplier
 
-# timePeriod and timeout for syncing ticker, and saving file
-timePeriod = 300
-timeout = 300
-
-# measuring when producer counts(socket processing task) == consumer counts(writing task)
-producer_cnt = 0
-consumer_cnt = 0
-
-# tickers which are done through processed_socket -> write_to_file
-# for preventing duplication of analyzing and sending data by telegram.
-processed_tickers = []
-
+# socket timeout
+timeout = args.timeout
+#########################################################################################
+#########################################################################################
+#########################################################################################
+'''env Variables'''
 load_dotenv()
 BOT_ID = getenv('TELEGRAM_BOT_TOKEN')
 CHAT_ID = getenv('TELEGRAM_CHAT_ID')
 assert BOT_ID is not None
 assert CHAT_ID is not None
-
-# Queue to communicate between data processing and plotting tasks
-# the reason why this getting queue code should not be here is : initiating Queue makes an event loop if it is not executed on coroutine or a callback
-# plotting_queue = asyncio.Queue()
+#########################################################################################
+#########################################################################################
+#########################################################################################
+'''Logger set'''
 
 class Formatter(logging.Formatter):
     """override logging.Formatter to use an aware datetime object"""
     def converter(self, timestamp):
         dt = datetime.datetime.fromtimestamp(timestamp)
-        tzinfo = pytz.timezone('Asia/Seoul')
+        tzinfo = timezone
         # change utc time into korean utc time
         return tzinfo.localize(dt)
          
@@ -93,31 +112,31 @@ class Formatter(logging.Formatter):
                 s = dt.isoformat()
         return s
 
-# create logger
+# create logger(root logger)
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 # create console handler and set level to debug
 ch = logging.StreamHandler()
-ch.setLevel(logging.INFO)
-
-# create formattera
-formatter = Formatter('[%(asctime)s] p%(process)s {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s','%m-%d %H:%M:%S')
-# add formatter to ch
-ch.setFormatter(formatter)
+ch.setLevel(logging.WARNING)
 
 # initialize the log file when running again
 f = logging.FileHandler('log.txt', 'w')
 f.setLevel(logging.INFO)
 
+# create formatter
+formatter = Formatter('[%(asctime)s] p%(process)s {%(pathname)s:%(lineno)d} %(levelname)s - %(message)s','%m-%d %H:%M:%S')
+
+# add formatter to ch
+ch.setFormatter(formatter)
 f.setFormatter(formatter)
 
-# add ch to logger
+# add handlers to logger
 logger.addHandler(ch)
 logger.addHandler(f)
 
-
 def measure_execution_time(log_prefix=""):
+    """decorators for debugging executing time"""
     def decorator(func):
         @functools.wraps(func)
         async def wrapper(*args, **kwargs):
@@ -131,66 +150,78 @@ def measure_execution_time(log_prefix=""):
                 logging.info(f'{log_prefix} Execution Time : {elapsed_time}')
         return wrapper
     return decorator
+#########################################################################################
+#########################################################################################
+#########################################################################################
+'''Functions'''
 
-async def process_socket(symbol, interval, q):
-        global producer_cnt
-        client = AsyncClient()
-        async with BinanceSocketManager(client).kline_futures_socket(symbol, interval) as ts:
-            start_time = None
-            abandon_symbol_yn = False
-            while True:
-                try:
-                    start_time = time.time()
+async def binance_kline_tracker_by_socket(symbol, interval, q):
+    '''binance real-time async socket handler for tracking the k-line
+       trying to capture the moment where the k-line closed especially 
+       looking for taker buy volume and number of trades'''
 
-                    # if taker does not appear more than 1m, then regard it as unsigned ticker -> abandon
-                    res = await asyncio.wait_for(ts.recv(), 60)
-                    kline_data = res['k']
+    client = AsyncClient()
+    task_done = False
 
-                    # Check if the kline is closed
-                    if kline_data['x']:
-                        timestamp = float(kline_data['T'])
-                        time_utc = datetime.datetime.fromtimestamp(timestamp / 1000.0)
-                        # Convert UTC time to dateTime Object -> Convert to Korean UTC time
-                        time_korean_utc = time_utc.astimezone(korean_timezone)
-                        # columns will be ('symbol', 'timestamp', 'value')
-                        payload = (symbol, time_korean_utc, float(kline_data['Q']))
-                        key_set = ('symbol', 'timestamp', 'value')
-                        payload_transformed = {key: [value] for key, value in zip(key_set, payload)}
-                        # Put the data in the queue
-                        await q.put(payload_transformed)
-                        producer_cnt += 1
+    @measure_execution_time("insert_queue_if_kline_is_closed")
+    async def insert_queue_if_kline_is_closed(kline_data):
+        nonlocal task_done
+        # Check if the kline is closed
+        if kline_data['x']:
+            timestamp = float(kline_data['T'])
+            # Convert UTC time to datetime Object and then adapt user-defined timezone
+            time_utc = datetime.datetime.fromtimestamp(timestamp / 1000.0).astimezone(timezone)
+            # columns will be ('symbol', 'timestamp', 'value')
+            payload = (symbol, time_utc, float(kline_data['Q']))
+            key_set = ('symbol', 'timestamp', 'value')
+            payload_transformed = {key: [value] for key, value in zip(key_set, payload)}
+            # Put the data in the queue
+            await q.put(payload_transformed)
+            task_done = True
+    
+    async with BinanceSocketManager(client).kline_futures_socket(symbol, interval) as ts:
+        abandon_symbol_yn = False
+        while True:
+            try:
+                # ts.recv() function internally acts as while loop and has timeout exception.(original timeout : 10seconds)
+                # if the ticker is not on the future market, it will indefinitely loops and exhaust resources 
+                # so, if we are waiting more than 100 seconds for payload, then regard it as unsigned ticker -> abandon
+                res = await asyncio.wait_for(ts.recv(), 100)
+                kline_data = res['k']
+                await insert_queue_if_kline_is_closed(kline_data)
 
-                        # depends on the kline type. default is 1m.
-                        # don't know why the error throws when insert this code.
-                        # the error info : "general exception : 'k'"
-                        # await asyncio.sleep(58)
+            except BinanceAPIException as e:
+                logging.error(f'Binance API exception: {e}', exc_info=True)
+            
+            # error that wait for more than 100 seconds
+            except asyncio.TimeoutError as e:
+                abandon_symbol_yn = True
+                logging.error(f'TimeoutError : {symbol} - {e}', exc_info=True)
 
-                except BinanceAPIException as e:
-                    logging.error(f'Binance API exception: {e}', exc_info=True)
-                
-                except asyncio.TimeoutError as e:
-                    abandon_symbol_yn = True
-                    logging.error(f'TimeoutError : {symbol} - {e}', exc_info=True)
+            except Exception as e:
+                logging.error(f'General exception: {e}', exc_info=True)
 
-                except Exception as e:
-                    logging.error(f'General exception: {e}', exc_info=True)
+            finally:
+                if abandon_symbol_yn:
+                    logging.info(f'{symbol} abandoned')
+                    try:
+                        await client.close_connection()
+                    except Exception as e:
+                        logging.error(f'error info: {e}')
+                        return
+                    break
 
-                finally:
-                    assert start_time is not None
-                    elapsed_time = time.time() - start_time
-                    logging.debug(f"Socket processing for {symbol} took {elapsed_time} seconds")
+                if task_done:
+                    logging.info(f'{symbol} kline closed and binance_kline_tracker_by_socket finish task')
+                    try:
+                        await client.close_connection()
+                    except Exception as e:
+                        logging.error(f'error info: {e}')
+                        return
+                    break
 
-                    if abandon_symbol_yn:
-                        logging.info(f'{symbol} abandoned')
-                        break
-
-                    # # binance can discard the symbol -> abandon the discarded symbol socket
-                    # if symbol not in symbols:
-                    #     logging.info(f'{symbol} abandoned')
-                    #     producer_cnt -= 1
-                    #     break
-
-async def append_data_to_file(symbol, file_path, file : pd.DataFrame):
+@measure_execution_time("async_write_csv")
+async def async_write_csv(symbol, file_path, file : pd.DataFrame):
     loop = asyncio.get_event_loop()
     # for appending without column indices
     try:
@@ -202,14 +233,12 @@ async def append_data_to_file(symbol, file_path, file : pd.DataFrame):
     except Exception as e:
         logging.error(f'error info: {e}')
 
+@measure_execution_time("async_read_csv")
 async def async_read_csv(file_path):
-    start_time = time.time()
     loop = asyncio.get_event_loop()
     df = None
     try:
         df = await loop.run_in_executor(None, pd.read_csv, file_path)
-        elapsed_time = time.time() - start_time
-        logging.info(f'read csv file took for {elapsed_time}')
     except Exception as e:
         logging.error(f'error info: {e}') 
     df = pd.DataFrame(df)
@@ -217,37 +246,22 @@ async def async_read_csv(file_path):
     assert df is not None
     return df
 
-async def save_data(q, timeout, cycle_complete_event : asyncio.Event):
-    global consumer_cnt, processed_tickers
-    while True: 
+@measure_execution_time("save_data")
+async def save_data(q : asyncio.Queue, timeout):
+    for _ in range(q.qsize()):
         try:
             # Get the latest data from the queue with a timeout
             payload = await asyncio.wait_for(q.get(), timeout=timeout)
             symbol = payload['symbol']
             data = pd.DataFrame(payload)
             data['timestamp'] = pd.to_datetime(data['timestamp'])
-            await append_data_to_file(symbol, file_path, data)
-            processed_tickers.append(data['symbol'].tolist()[0])
-            consumer_cnt += 1
-
-            logging.debug(f'producer_cnt : {producer_cnt}, consumer_cnt : {consumer_cnt}')
-            if producer_cnt != 0 and consumer_cnt != 0 and producer_cnt == consumer_cnt:
-                cycle_complete_event.set()
+            await async_write_csv(symbol, file_path, data)
         except Exception as e:
             logging.error(f'error info: {e}')
 
-async def sync_ticker_data_from_server(client : AsyncClient, timePeriod):
-    global symbols
-
-    while True:
-        await asyncio.sleep(timePeriod)
-        res = await client.get_exchange_info()
-        y = lambda symbol : 'USDT' in symbol
-        symbols = list(filter(y, [data['symbol'] for data in res['symbols']]))
-
+@measure_execution_time("plot_taker_buy_volume_graph")
 async def plot_taker_buy_volume_graph(symbols):
-    start_time = time.time()
-    # Create a Telegram bot and dispatcher
+    # Create a Telegram bot
     bot = Bot(token=BOT_ID)
     try:
         df = await async_read_csv(file_path)
@@ -289,16 +303,13 @@ async def plot_taker_buy_volume_graph(symbols):
 
                 plt.close()
 
-                elapsed_time = time.time() - start_time
-                if ret is not None:
-                    logging.info(f'plotting and sending graph to telegram took for {elapsed_time}')
-
     except Exception as e:
         logging.error(f'error info: {e}')
     # finally:
         # Close the bot session
         # await bot.close()
 
+@measure_execution_time("send_telegram")
 async def send_telegram(bot : Bot, buffer):
     result = None
     # Send the image to the Telegram chat
@@ -308,96 +319,75 @@ async def send_telegram(bot : Bot, buffer):
         logging.error(f'error info: {e}')
     return result
 
-async def measure_real_time_hyped_taker_volume_task(timedelta, multiplier, cycle_complete_event : asyncio.Event):
-    '''measure if there is a real-time hyped taker volume symbol as soon as 
-       one cycle of producer and consumer tasks pipeline done '''
-    global producer_cnt, consumer_cnt
-    while True:
-        try:
-            # Wait for the cycle of other tasks to complete
-            await cycle_complete_event.wait()
+@measure_execution_time("measure_real_time_hyped_taker_volume_task")
+async def measure_real_time_hyped_taker_volume_task(timedelta, multiplier):
+    '''measure if there is a real-time hyped taker volume symbol
+       calculated by setting the time begin and multiplier to see if 
+       there is a symbol over the standard set'''
+    try:
+        df = await async_read_csv(file_path) 
 
-            # Reset the event for the next cycle
-            cycle_complete_event.clear()
+        # 1st transform process : apply datetime object to a 'timestamp' column
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        # Input datetime for reference
+        time_now = dt.now(timezone)
+        # Calculate the datetime for 'timedelta' minutes ago
+        time_begin = pd.to_datetime(time_now - td(minutes=timedelta))
+        # For Solving Issue : "Invalid comparison between dtype=datetime64[ns] and datetime"
+        filtered_df = df[df['timestamp'].dt.to_pydatetime() >= time_begin]
+        # Group by 'symbol' and calculate the mean of the 'value' column multiplied by multiplier
+        mean_values = filtered_df.groupby('symbol')['value'].mean() * multiplier
+        # Get the most recent datetime data for each symbol
+        recent_data = df.groupby('symbol').apply(lambda x: x.iloc[-1])['value']
+        # Filtered Series Object
+        s = recent_data > mean_values
+        logging.debug(f'Series object parmater : {s}')
+        await plot_taker_buy_volume_graph(s[s].index.to_list())
 
-            # if producer_cnt != 0 and consumer_cnt != 0 and producer_cnt == consumer_cnt:
-            producer_cnt = 0
-            consumer_cnt = 0
+    except Exception as e:
+        logging.error(f'error info: {e}')
 
-            start_time = time.time() 
-
-            df = await async_read_csv(file_path) 
-
-            # 1st filter process : only processed symbols
-            df = df[df['symbol'].isin(processed_tickers)]
-            processed_tickers.clear()
-
-            # 2nd transform process : apply datetime object to a 'timestamp' column
-            df['timestamp'] = pd.to_datetime(df['timestamp'])
-            # Input datetime for reference
-            time_now = dt.now(korean_timezone)
-            # Calculate the datetime for 'timedelta' minutes ago
-            time_begin = pd.to_datetime(time_now - td(minutes=timedelta))
-            # For Solving Issue : "Invalid comparison between dtype=datetime64[ns] and datetime"
-            filtered_df = df[df['timestamp'].dt.to_pydatetime() >= time_begin]
-            # Group by 'symbol' and calculate the mean of the 'value' column
-            # Series Object
-            mean_values = filtered_df.groupby('symbol')['value'].mean() * multiplier
-            # Get the most recent datetime data for each symbol
-            # Series Object
-            recent_data = df.groupby('symbol').apply(lambda x: x.iloc[-1])['value']
-            logging.debug(f'mean_values : {mean_values}')
-            logging.debug(f'recent_data : {recent_data}')
-            # Filtered Series Object
-            s = recent_data > mean_values
-            await plot_taker_buy_volume_graph(s[s].index.to_list())
-
-            elapsed_time = time.time() - start_time
-            logging.info(f'measure_real_time_hyped_taker_volume_task took for {elapsed_time}')
-            # else:
-            #     await asyncio.sleep(1)            
-
-        except Exception as e:
-            logging.error(f'error info: {e}')
-
-async def main():
-    global symbols
+# wrapper function ruins the return coroutine
+# @measure_execution_time("async_set_future_symbols")
+async def async_set_future_symbols():
+    '''get binance future tickers'''
+    start_time = time.time()
     client = AsyncClient()
-
-    # sync the data with the server when running first time
-    res = await client.get_exchange_info()
-    y = lambda symbol : 'USDT' in symbol
-    symbols = list(filter(y, [symbol_data['symbol'] for symbol_data in res['symbols']]))
-
-    # this does not guarantee that the symbol is on the future market. 
-    # til now, I have not found yet how to filter only future tickers...
-    symbols = symbols[:]
-
+    res = await client.futures_exchange_info()
+    symbols = list(map(lambda x : x['symbol'], res['symbols']))
     try:
         await client.close_connection()
     except Exception as e:
         logging.error(f'error info: {e}')
         return
+    finally:
+        elapsed_time = start_time - time.time()
+        logging.info(f'elapsed_time : {elapsed_time}')
+    return symbols
 
-    # producer - consumer structure for asynchronous program
-    # process socket -> queue for writing to a file 
-    q = asyncio.Queue()
+async def main():
 
-    # Create asyncio event
-    cycle_complete_event = asyncio.Event()
-    
-    # Create tasks for producers and consumers
-    # ticker_sync_task = asyncio.create_task(sync_ticker_data_from_server(client, timePeriod))
-    producers_tasks = [asyncio.create_task(process_socket(symbol, interval, q)) for symbol in symbols]
-    # if there is more than 1 writer, duplication problem appears. How can I fix it? and if it is possible, then is it more efficient to add more writer tasks?
-    writer_task = asyncio.create_task(save_data(q, timeout, cycle_complete_event))
-    calculate_task = asyncio.create_task(measure_real_time_hyped_taker_volume_task(timedelta, multiplier, cycle_complete_event))
- 
-    # Run tasks concurrently
-    await asyncio.gather(*producers_tasks, writer_task, calculate_task)
-    await q.join()
+    if args.function == "binance_future_taker":
+        while True:
+            symbols = await async_set_future_symbols()
+            assert symbols is not None
+            # async queue for structure : producer(binance_kline_tracker_by_socket) -> consumer(save_data)
+            q = asyncio.Queue()
 
-    # await client.close_connection()
+            # Create tasks for producers and consumers
+            producers_tasks = [asyncio.create_task(binance_kline_tracker_by_socket(symbol, interval, q)) for symbol in symbols]
+
+            # Run tasks concurrently
+            await asyncio.gather(*producers_tasks)
+            # seperate producer and consumer, so no concurrently act -> no need
+            # await q.join()
+
+            # asyncio chaining
+            await save_data(q, timeout)
+            await measure_real_time_hyped_taker_volume_task(timedelta, multiplier)
+
+    else:
+        return
 
 if __name__ == "__main__":
     # Run the event loop
